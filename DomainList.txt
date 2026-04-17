@@ -18,3 +18,5 @@ funlearncompany.com
 *.deepseek.com
 deepseek.com
 tayuce.cfd
+signin.securedocsportal.com
+live.securedocsportal.com
