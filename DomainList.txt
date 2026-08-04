@@ -50,4 +50,4 @@ jdprovence-my.sharepoint.com
 www.mediafire.com
 *.mediafire.com
 redirect.viglink.com
-*viglink.com
+*.viglink.com
