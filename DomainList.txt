@@ -76,3 +76,5 @@ mtek.net.pk
 sharepoint-upload-xkit.s-olt.workers.dev
 plnbl.io
 muehlstein.cam
+boletin.bazdistribuciones.com
+brettmertin.com
